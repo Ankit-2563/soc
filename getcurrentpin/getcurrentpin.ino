@@ -6,7 +6,7 @@ Adafruit_INA219 ina219;
 // ─── I2C Pin Definitions ───────────────────────────────────────────────
 // ESP32 default I2C pins
 #define SDA_PIN 21
-#define SCL_PIN 22
+#define SCL_PIN 14
 
 // ESP8266 (NodeMCU) → uncomment below and comment out ESP32 pins above
 // #define SDA_PIN 4   // D2
